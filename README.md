@@ -1,4 +1,4 @@
-## Simple Notes Project
+## Lovely Baby
 
 Для запуска выполняем всё по порядку:
 <br><br>
